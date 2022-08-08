@@ -1,0 +1,21 @@
+﻿Build started 2/6/2022 1:01:32 PM.
+     1>Project "D:\Speech Processing DATA\214101014_Digit_Recognition_HMM\HMM_Model\HMM_Model.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HMM_Model.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\HMM_Model.unsuccessfulbuild".
+         Touching "Debug\HMM_Model.lastbuildstate".
+     1>Done Building Project "D:\Speech Processing DATA\214101014_Digit_Recognition_HMM\HMM_Model\HMM_Model.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

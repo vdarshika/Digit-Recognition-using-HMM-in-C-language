@@ -1,0 +1,183 @@
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  11 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  2.02105e-147
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  8.31489e-086
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  4.31851e-137
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  6.7522e-264
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  12 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  8.03159e-175
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  2.52337e-086
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  3.28928e-164
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  13 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  4.56315e-129
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  4.28343e-065
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  8.27454e-145
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  6.99489e-213
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  14 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  2.0851e-141
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  4.44384e-069
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  5.41343e-128
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  3.90967e-194
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  15 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  8.93771e-133
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  2.78185e-082
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  4.31273e-132
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  16 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  2.20933e-129
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  3.47347e-064
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  4.27126e-119
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  7.67728e-244
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  17 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  3.26906e-135
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  2.114e-079
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  9.77947e-120
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  1.71865e-132
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  18 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  1.30022e-113
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  2.60729e-314
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  6.01316e-073
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  2.23973e-111
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  9.71857e-287
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+	----------------------------------------------------------------------------
+	---------------------- TEST FILE  19 ---------------------------------------
+	----------------------------------------------------------------------------
+
+
+	 P(Observation Seq/ Lambda) for Model of Digit 0 -------->  1.75208e-118
+	 P(Observation Seq/ Lambda) for Model of Digit 1 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 2 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 3 -------->  2.67132e-086
+	 P(Observation Seq/ Lambda) for Model of Digit 4 -------->  5.50051e-144
+	 P(Observation Seq/ Lambda) for Model of Digit 5 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 6 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 7 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 8 -------->  0
+	 P(Observation Seq/ Lambda) for Model of Digit 9 -------->  0
+
+
+	~~~~~~~~~~~~~~~~~~~>> Actual Digit = 3
+	~~~~~~~~~~~~~~~~~~~>> Detected Digit = 3
+
+
+
+ ACCURACY OF DIGIT 3------>90%
